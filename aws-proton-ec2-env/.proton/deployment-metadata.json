@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "31836c37-18c8-4dde-9b60-5e9927c61eb1",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:269608380244:environment/aws-proton-ec2-env",
     "templateArn" : "arn:aws:proton:us-east-1:269608380244:environment-template/proton_ec2_template",
